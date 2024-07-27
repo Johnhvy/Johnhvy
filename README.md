@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=johnhvy&theme=onedark&column=9" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=discord" alt="ThecoderPinar" /></a> </p>
 
 - 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
 - 💬 My portfolio is **https://sasaki-portfolio.onrender.com/**
