@@ -5,6 +5,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=johnhvy&theme=onedark&column=9" />
 </p>
 
+<div align="center">
+    <a href="https://github.com/johnhvy"><img src="https://komarev.com/ghpvc/?username=johnhvy&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
+</div>
+
 - 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
 - 💬 My portfolio is **https://sasaki-portfolio.onrender.com/**
 - 📫 How to reach me **sasakidev581@gmail.com**
