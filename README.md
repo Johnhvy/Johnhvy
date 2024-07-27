@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=discord" alt="ThecoderPinar" /></a> </p>
 
-- 🌱 I’m currently learning **Data science, machine learning, and artificial intelligence are my current areas of focus.**
-- 💬 Ask me about **Feel free to ask me about anything related to Tensorflow, YOLO, OpenCV, data science, machine learning, Computer Vision, or artificial intelligence.**
+- 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
+- 💬 My portfolio is **https://sasaki-portfolio.onrender.com/**
 - 📫 How to reach me **sasakidev581@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/johnhvy?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
