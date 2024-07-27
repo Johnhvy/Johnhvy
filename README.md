@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
+[![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/johnhvy)
 
 # 💫 About Me:
 🔬 I specialize in data analysis, machine learning, and predictive modeling.<br>📊 My journey in data science has been enriched with projects like ,.<br>💡 I believe in the power of data to drive informed decisions and improve businesses.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in Python, SQL, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make data science accessible and impactful for everyone.<br>
@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=discord" alt="ThecoderPinar" /></a> </p>
 
-- 🔭 I’m currently working on [Quantum Matlab Hub](https://github.com/ThecoderPinar/Quantum-Matlab-Hub)
 - 👯 I’m looking to collaborate on [Spotify Trends 2023 Analysis](https://github.com/ThecoderPinar/Spotify_Trends_2023_Analysis)
 - 🤝 I’m looking for help with [Plant Health Monitoring](https://github.com/ThecoderPinar/Plant-Health-Monitoring)
 - 🌱 I’m currently learning **Data science, machine learning, and artificial intelligence are my current areas of focus.**
