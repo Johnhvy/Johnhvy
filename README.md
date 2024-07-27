@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔬 I am a senior AI and full-stack engineeer.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in Python, JavaScript, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=onedark&column=9" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=discord" alt="ThecoderPinar" /></a> </p>
 
 - 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
