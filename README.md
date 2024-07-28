@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/johnhvy"><img src="https://komarev.com/ghpvc/?username=johnhvy&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
+    <a href="./licence"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
 - 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
