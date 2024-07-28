@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <a href="https://github.com/johnhvy"><img src="https://komarev.com/ghpvc/?username=&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="https://github.com/johnhvy"><img src="https://komarev.com/ghpvc/?username=johnhvy&color=brightgreen&style=for-the-badge"/><a/>
     <a href="./licence"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
