@@ -37,11 +37,11 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnhvy&layout=compact&theme=transparent" alt=johnhvy />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThecoderPinar&show_icons=true&locale=en&theme=transparent" alt="ThecoderPinar" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=johnhvy&show_icons=true&locale=en&theme=transparent" alt="johnhvy" /></p>
 
 
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThecoderPinar&theme=transparent" alt="ThecoderPinar" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=johnhvy&theme=transparent" alt="johnhvy" /></p>
 
 
 
