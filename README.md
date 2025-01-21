@@ -9,10 +9,10 @@
     <a href="./licence"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
-- 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
-- 💬 My portfolio is **https://sasaki-portfolio.onrender.com/**
-- 📫 How to reach me **sasakidev581@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/johnhvy?tab=repositories**
+- 🌱Here are my technic certifies **https://www.hackerrank.com/profile/ukenta123**
+- 💬 My portfolio is **https://uneoka.netlify.app/**
+- 📫 How to reach me **uneoka.k0114@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/uneoka0114?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
 <div> 
